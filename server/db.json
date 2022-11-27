@@ -1,0 +1,77 @@
+{
+  "folders": [
+    {
+      "id": 1,
+      "name": "Images",
+      "folderId": 0,
+      "starred": false
+    },
+    {
+      "id": 2,
+      "name": "Docs",
+      "folderId": 0,
+      "starred": true
+    },
+    {
+      "id": 3,
+      "name": "My Images",
+      "folderId": 1,
+      "starred": false
+    },
+    {
+      "id": 4,
+      "name": "My Docs",
+      "folderId": 2,
+      "starred": false
+    },
+    {
+      "name": "Untitled Folder",
+      "folderId": 0,
+      "id": 5
+    }
+  ],
+  "files": [
+    {
+      "id": 1,
+      "name": "File 1.jpg",
+      "url": "https://picsum.photos/id/1015/350/200",
+      "mimeType": "image/jpeg",
+      "folderId": 0,
+      "createdAt": 1635746178052,
+      "starred": false
+    },
+    {
+      "id": 2,
+      "name": "File 2.png",
+      "url": "https://picsum.photos/id/1039/350/200",
+      "mimeType": "image/png",
+      "folderId": 3,
+      "createdAt": 1635746159804,
+      "starred": false
+    },
+    {
+      "id": 3,
+      "name": "File 3.doc",
+      "mimeType": "application/msword",
+      "folderId": 4,
+      "createdAt": 1635746070754,
+      "starred": false
+    },
+    {
+      "id": 4,
+      "name": "File 4.pdf",
+      "mimeType": "application/pdf",
+      "folderId": 4,
+      "createdAt": 1635746069282,
+      "starred": false
+    },
+    {
+      "id": 5,
+      "name": "File 5.xls",
+      "mimeType": "application/vnd.ms-excel",
+      "folderId": 2,
+      "createdAt": 1635746199284,
+      "starred": false
+    }
+  ]
+}
